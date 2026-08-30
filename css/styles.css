@@ -691,7 +691,6 @@ img {
   border: none;
   color: #f4f4fd;
   background-color: #404bbf;
-  border-color: #4d5ae5;
 }
 
 .modal-checkbox:focus + .modal-checkbox-label .modal-custom-checkbox {
